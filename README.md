@@ -1,6 +1,6 @@
 ## 👋
 
-[davidlim.tech](https://www.davidlim.dev/)
+[davidlim.dev](https://www.davidlim.dev/)
 <!--
 **dvidEast/dvidEast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
